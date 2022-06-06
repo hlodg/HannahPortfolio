@@ -7,7 +7,7 @@ const Footer = () => {
             <section id="footer">
                 <div class="right-content">
                     <a href="https://github.com/hlodg">
-                    <img src="assets/Github-Mark.png" alt="Github Link Above" id="gitlink" />
+                    <img src="assets/mark.png" alt="Github Link Above" id="gitlink" />
                     </a>
                 </div>
                 <div class="left-content">
