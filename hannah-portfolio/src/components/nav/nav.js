@@ -4,7 +4,7 @@ const Nav = () => {
   return (
     <div>
       <div class="px-4 py-5 my-5 text-center">
-        <img src="./Assets/Phone Photo 220" alt="could not display"></img>
+        <img src="assets/Phone Photo 222.jpg" alt="could not display" />
         <h1 class="display-5 fw-bold">Hannah's Portfolio</h1>
         <div class="col-lg-6 mx-auto">
           <p class="lead mb-4">A creative, self motivated front end developer, I strive to create the best applications possible. Using my educational background, I not only have experience working with data, I find it is important to understand the user experience. Many times as a teacher, I interacted with large databases and pieces of information, but found them difficult to manage. With my new skills in Javascript, CSS, HTML, Node JS and responsive web design, I have been able to learn how to put the user experience at the forefront when creating applications. I believe both my professional skills as well as my recent coding experience has prepared me to be able to provide the best possible solutions to coding problems. </p>
