@@ -1,0 +1,29 @@
+#nav{
+    background-color: pink;
+    padding: 0;
+}
+
+#image{
+    width: 200px;
+    margin: 4%;
+}
+
+#title{
+    margin: 0 0 2%;
+}
+
+.navbar{
+    background-color: grey;
+    color:black;
+    align-items: center;
+}
+
+.nav-link{
+    color:black;
+    font-size: large;
+
+}
+
+.p{
+    font-size: medium;
+}
