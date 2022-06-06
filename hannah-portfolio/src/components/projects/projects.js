@@ -35,7 +35,7 @@ const Projects = () => {
                     <h3><a href="https://github.com/fchang1720/Podcast-Website">Podcasts for Kids</a></h3>
                     <section class="project_content">
                         <p>Have your kids ever wanted to create a podcast to share with friends. Well then this is the app for you!</p>
-                       <img src="../Assets/pfk.png" alt="https://unsplash.com/s/photos/coming-soon" />
+                       <img src="assets/pfk.png" alt="https://unsplash.com/s/photos/coming-soon" />
                     </section>
                 </div>
 
