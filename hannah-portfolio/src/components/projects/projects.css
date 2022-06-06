@@ -1,9 +1,10 @@
 h2{
-    font-size: 50px;;
+    font-size: 50px;
 }
 
 #portfolio{
     background-color: lightcyan;
+    padding-top: 2%;
 }
 
 img{
@@ -12,7 +13,7 @@ img{
 }
 
 .project{
-    margin: 5% 10%;
+    margin: 0% 10%;
 }
 
 p{

@@ -1,13 +1,14 @@
 #resume{
     background-color:lightskyblue;
+    padding-top:2%;
+    padding-bottom: 2%;
 }
 
 h2{
     font-size: 50px;
-    margin: 3%;
 }
 
 iframe{
-    width: 80%;
+    width: 60%;
     height: 400px;
 }
