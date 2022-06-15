@@ -15,6 +15,11 @@ const Footer = () => {
                         <img src="assets/Linkedin-logo-png.png" id="gitlink" />
                     </a>
                 </div>
+                <div class="left-content">
+                    <a href="hannahlodge00@gmail.com">
+                        <img src="assets/Gmail-logo.png" id="gitlink" />
+                    </a>
+                </div>
             </section>
         </div>
     )
