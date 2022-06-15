@@ -3,7 +3,8 @@ import './skills.css';
 
 const Skills = () => {
     return (
-        <div>
+        <div id="skills">
+            <h2>Skills:</h2>
             <img src="assets/node.jpg" alt="NodeJS" id="gitlink" />
             <img src="assets/javascript.webp" alt="JavaScript" id="gitlink" />
             <img src="assets/HTMLCSS.jpg" alt= "CSS" id="gitlink" />
