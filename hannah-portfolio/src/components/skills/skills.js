@@ -6,8 +6,13 @@ const Skills = () => {
         <div id="skills">
             <h2>Skills:</h2>
             <ul>
-                <li>JavaScript</li>
-                <li>NodeJS</li>
+                <li>JavaScript
+                    <img src="assets/javascript.webp" alt="JavaScript" id="gitlink" />
+                </li>
+                <li>NodeJS
+                    <img src="assets/node.jpg" alt="NodeJS" id="gitlink" />
+                </li>
+
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>React</li>
