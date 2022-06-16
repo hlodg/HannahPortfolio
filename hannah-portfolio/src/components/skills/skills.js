@@ -5,14 +5,9 @@ const Skills = () => {
     return (
         <div id="skills">
             <h2>Skills:</h2>
-            <ul>
-                <li>JavaScript
-                    <img src="assets/javascript.webp" alt="JavaScript" id="gitlink" />
-                </li>
-                <li>NodeJS
-                    <img src="assets/node.jpg" alt="NodeJS" id="gitlink" />
-                </li>
-
+            {/* <ul>
+                <li>JavaScript</li>
+                <li>NodeJS</li>
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>React</li>
@@ -23,8 +18,8 @@ const Skills = () => {
                 <li>Heroku</li>
                 <li>Rest API</li>
                 <li>Google OAuth</li>
-            </ul>
-            {/* <div>
+            </ul> */}
+            <div>
                 <img src="assets/node.jpg" alt="NodeJS" id="gitlink" />
             </div>
             <div>
@@ -47,7 +42,7 @@ const Skills = () => {
             </div>
             <div>
                 <img src="assets/sql.png" alt="SQL" id="gitlink" />
-            </div> */}
+            </div>
         </div>
     )
 
