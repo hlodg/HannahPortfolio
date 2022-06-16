@@ -8,7 +8,9 @@ h2{
     font-size: 50px;
 }
 
-iframe{
-    width: 60%;
-    height: 400px;
+#gitlink {
+    height: 50px;
+    width: auto;
+    padding-top:10%;
+    padding-left: 2%;
 }
