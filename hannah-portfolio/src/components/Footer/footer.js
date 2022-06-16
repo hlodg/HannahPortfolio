@@ -21,6 +21,11 @@ const Footer = () => {
                     </a>
                 </div>
             </section>
+            <div>
+                <h2>Contact Me</h2>
+                <p>hannahlodge00@gmail.com</p>
+                <p>612.242.0166</p>
+            </div>
         </div>
     )
 
