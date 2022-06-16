@@ -3,22 +3,9 @@ import './skills.css';
 
 const Skills = () => {
     return (
-        <div id="skills">
+        <div id="overallskills">
             <h2>Skills:</h2>
-            {/* <ul>
-                <li>JavaScript</li>
-                <li>NodeJS</li>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>React</li>
-                <li>GraphQL</li>
-                <li>MongoDb</li>
-                <li>SQL</li>
-                <li>Sequelize</li>
-                <li>Heroku</li>
-                <li>Rest API</li>
-                <li>Google OAuth</li>
-            </ul> */}
+        <div id="skills">
             <div>
                 <img src="assets/node.jpg" alt="NodeJS" id="gitlink" />
             </div>
@@ -29,7 +16,7 @@ const Skills = () => {
                 <img src="assets/HTMLCSS.jpg" alt="CSS" id="gitlink" />
             </div>
             <div>
-                <img src="assets/reaction.png" alt="React" id="gitlink" />
+                <img src="assets/reacticon.png" alt="React" id="gitlink" />
             </div>
             <div>
                 <img src="assets/graphql.png" alt="GraphQL" id="gitlink" />
@@ -43,6 +30,7 @@ const Skills = () => {
             <div>
                 <img src="assets/sql.png" alt="SQL" id="gitlink" />
             </div>
+        </div>
         </div>
     )
 

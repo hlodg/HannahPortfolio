@@ -1,5 +1,10 @@
-#skills{
+#overallskills{
     background-color:lightskyblue;
+    padding-top:2%;
+    padding-bottom: 2%;
+}
+
+#skills{
     padding-top:2%;
     padding-bottom: 2%;
     display:flex;
