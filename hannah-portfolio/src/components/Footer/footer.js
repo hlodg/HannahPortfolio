@@ -4,7 +4,7 @@ import './footer.css'
 const Footer = () => {
     return (
         <div>
-            <div id= "footer">
+            <div id= "contactme">
                 <h2>Contact Me</h2>
                 <p>hannahlodge00@gmail.com</p>
                 <p>612.242.0166</p>
