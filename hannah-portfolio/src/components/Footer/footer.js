@@ -16,7 +16,7 @@ const Footer = () => {
                     </a>
                 </div>
                 <div class="left-content">
-                    <a href="https://www.linkedin.com/in/hannah-lodge-79a948a8/">
+                    <a href="https://www.linkedin.com/in/hannahrlodge/">
                         <img src="assets/Linkedin-logo-png.png" id="gitlink" />
                     </a>
                 </div>
